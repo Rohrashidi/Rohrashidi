@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohrashidi
 - 👀 I’m interested in social network
-- 🌱 I’m currently learning discovering leader node of social network
+- 🌱 I’m currently learning discover leader node of social network
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
